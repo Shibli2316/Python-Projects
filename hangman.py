@@ -1,0 +1,1 @@
+print("\tWelcome to the traditional game of programmers called HANGMAN")

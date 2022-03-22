@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is the list of reminders that you have set
-=======
-This is the list of reminders that you have set
->>>>>>> c2115298ee10dffceb16441b8dad17dd601b4f6f

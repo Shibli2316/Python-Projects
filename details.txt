@@ -3,8 +3,4 @@ This is my project  files that i am making along with Ilma Tariq to  immprove my
 19 March 2022       Notification                      Number guessing game
 20 March 2022       Dice rolling stimulation          Reminder program
 21 March 2022       Hangman                           Rock Paper Scissor
-<<<<<<< HEAD
 22 March 2022       Word Adventure     
-=======
-22 March 2022       Word Adventure   
->>>>>>> 9d05fc689af8b20e2c78c06eb31c61769265045d

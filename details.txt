@@ -1,6 +1,6 @@
 This is my project  files that i am making along with Ilma Tariq to  immprove my coding skills. The test files are just to test random things.
 18 March 2022       Madlib                            Contact book
 19 March 2022       Notification                      Number guessing game
-20 March 2022       Dice rolling stimulation          
+20 March 2022       Dice rolling stimulation          Reminder program
 21 March 2022       Hangman                           Rock Paper Scissor
-22 March 2022          
+22 March 2022       Word Adventure   

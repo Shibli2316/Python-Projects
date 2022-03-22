@@ -1,3 +1,4 @@
+from operator import truediv
 import random
 def rolling():
     randNumb=random.randint(1,6)
@@ -39,10 +40,10 @@ def rolling():
         print("|*   *|")
         print(" -----")
         rolling()
-
-print("To roll the dice press 1\nTo exit press 2")
-userChoice=int(input("Enter your choice: "))
-if userChoice==1:
-   rolling()
-else:
-   exit()
+while True:
+    print("To roll the dice press 1\nTo exit press 2")
+    userChoice=int(input("Enter your choice: "))
+    if userChoice==1:
+        rolling()
+    else:
+        exit()

@@ -42,8 +42,7 @@ def rolling():
 
 print("To roll the dice press 1\nTo exit press 2")
 userChoice=int(input("Enter your choice: "))
-while True:
-    if userChoice==1:
-        rolling()
-    else:
-        exit()
+if userChoice==1:
+   rolling()
+else:
+   exit()

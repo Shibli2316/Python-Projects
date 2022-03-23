@@ -1,6 +1,5 @@
 import random
 randNumb=random.randint(1,3)
-# print(randNumb)
 print("\tWelcome to the basic game of rock paper scissor")
 print("\tTo play the game press 1")
 print("\tTo exit press 2")

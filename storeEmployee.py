@@ -1,6 +1,6 @@
 from turtle import position
 from unicodedata import name
-
+# Basic template layout for storing informations about employees
 
 class Employee:
     count = 0

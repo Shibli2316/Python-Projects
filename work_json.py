@@ -16,6 +16,7 @@ collage = {
     "ID": [10,20,30,40]
 }
 
+# Writing and reading from JSON
 json.dump(collage, open("collage.json", "w"))
 new_collage = json.load(open("collage.json", "r"))
 print(new_collage)
